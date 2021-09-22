@@ -22,8 +22,23 @@
 .LADYCAROLINE{
     color: blueviolet;
 }
+.LADYCAROLINE:hover{
+    color:black;
+    filter: blur(1px);
+    text-shadow: 8px 8px;
+}
+.HESTER:hover{
+    color:black;
+    filter: blur(1px);
+    text-shadow: 8px 8px;
+}
 .HESTER{
     color: orange;
+}
+.SIRJOHN:hover{
+    color:black;
+    filter: blur(1px);
+    text-shadow: 8px 8px;
 }
 .SIRJOHN{
     color: yellow;
@@ -38,4 +53,27 @@ table, th, td, tr{
     border-collapse: collapse;
     padding: 12px;
     margin: 10px;
+}
+tr:nth-child(even){
+background-color:lightgray;
+color:black;
+}
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li
+{ 
+   float:left; 
+   color:#000;
+   background-color:yellow
+}
+ul.navbar-horizontal a {
+   display:block;
+   padding:8px
+}
+ul.navbar-horizontal a:hover { 
+   background-color: #555;
+   color:red;
 }
