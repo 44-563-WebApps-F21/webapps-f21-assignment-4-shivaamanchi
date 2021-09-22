@@ -1,16 +1,16 @@
 .speech {
-    font-family: "Calibri" ;
+    font-family: "Times New Roman" ;
     font-size: 13px;
     color:black;
 }
 .stage-direction {
-    font-family: "Arial" ;
+    font-family: "Calibri" ;
     font-size: 15px;
     color:black;
     background-color: lightskyblue;
 }
 .name {
-    font-family: "Times New Romen" ;
+    font-family: "Arial" ;
     font-size: 16px;
     color:black;
     
@@ -20,13 +20,13 @@
     color: mediumvioletred;
 }
 .LADYCAROLINE{
-    color: green;
+    color: blueviolet;
 }
 .HESTER{
-    color:blue;
+    color: orange;
 }
 .SIRJOHN{
-    color: tomato;
+    color: yellow;
 }
 h6{
     margin: 10px 0;
