@@ -1,0 +1,32 @@
+.speech {
+    font-family: "Calibri" ;
+    font-size: 13px;
+    color:black;
+}
+.stage-direction {
+    font-family: "Arial" ;
+    font-size: 15px;
+    color:black;
+    background-color: lightskyblue;
+}
+.name {
+    font-family: "Times New Romen" ;
+    font-size: 16px;
+    color:black;
+    
+}
+.stage-direction.hover{
+    background-color:greenyellow;
+    color: mediumvioletred;
+}
+.LADYCAROLINE{
+    color: green;
+}
+.HESTER{
+    color:blue;
+}
+.SIRJOHN{
+    color: tomato;
+}
+h6{
+    margin: 10px 0;
